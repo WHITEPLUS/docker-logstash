@@ -1,2 +1,2 @@
-# docker_logstash
+# docker-logstash
 docker logstash container image
